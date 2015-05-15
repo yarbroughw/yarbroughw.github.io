@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            yarbroughw.blog()
+title:            'Willem Yarbrough'
 tagline:          '10/10 best new blog'
-description:      'Blog about everything.'
+description:      ''
 url:              http://yarbroughw.github.io
 baseurl:          /
 
