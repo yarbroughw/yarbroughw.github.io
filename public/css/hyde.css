@@ -83,6 +83,12 @@ html {
   color: #fff;
 }
 
+/* Sidebar links */
+.sidebar p {
+    margin-bottom: 0;
+}
+
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
