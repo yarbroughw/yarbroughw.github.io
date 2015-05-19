@@ -17,8 +17,6 @@ author:
   name:           'Willem Yarbrough'
   url:            https://github.com/yarbroughw
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
