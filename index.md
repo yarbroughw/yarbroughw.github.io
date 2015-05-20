@@ -10,7 +10,7 @@ I'm currently looking for work in the SF Bay Area. [Hire
 me!](https://www.linkedin.com/in/yarbroughw)
 
 + [View my resume.](resume.pdf)
-+ [Check out my projects.](http://github.com/yarbroughw)
++ [Check out my projects.](projects)
 + [Read my blog.](blog)
 
 ## Latest Blog Posts:
